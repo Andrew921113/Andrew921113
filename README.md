@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##你好
+##我是葉千岱
+##我是應用數學系
+##目前在學習R語言相關課程
+##這是一份github作業
